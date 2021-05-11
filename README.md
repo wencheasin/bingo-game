@@ -1,9 +1,12 @@
 # bingo-game
+Yang, try out the web-based Ruby IDE:
+https://try.ruby-lang.org/playground/
+
 I build a ruby script to improve the speed of checking numbers and to win company's bingo game.
 L, Yang, please help me reduce the redundancy and clumsiness of my code - bingo mapper.rb.
-Especially, the board set up process has a lot of repetition.
+The code has a lot of repetition.
 
-Here are the Game rules:
+Here are the Game rules: (better read in raw mode on github)
 Before start, game host gave each player a 5x5 bingo board with
 different numbers. For example, a player can get a board:
 B  I  N  G  O
